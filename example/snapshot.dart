@@ -1,4 +1,4 @@
-import 'package:snapshot/snapshot.dart';
+import 'package:snapshot_plus/snapshot.dart';
 
 void main() {
   var v = Snapshot.fromJson({

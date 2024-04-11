@@ -4,7 +4,7 @@ import 'dart:async';
 
 import 'package:meta/meta.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:snapshot/snapshot.dart';
+import 'package:snapshot_plus/snapshot.dart';
 
 /// A mixin to be used to implement data classes
 ///

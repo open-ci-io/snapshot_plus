@@ -1,5 +1,5 @@
 import 'package:intl/intl.dart';
-import 'package:snapshot/snapshot.dart';
+import 'package:snapshot_plus/snapshot.dart';
 import 'package:test/test.dart';
 
 void main() {

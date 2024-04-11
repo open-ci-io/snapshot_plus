@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:rxdart/rxdart.dart';
-import 'package:snapshot/snapshot.dart';
+import 'package:snapshot_plus/snapshot.dart';
 
 import 'json_pointer.dart';
 

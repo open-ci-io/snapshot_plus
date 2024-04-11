@@ -1,4 +1,4 @@
-import 'package:snapshot/src/deep_immutable.dart';
+import 'package:snapshot_plus/src/deep_immutable.dart';
 import 'package:test/test.dart';
 
 const bool kIsWeb = identical(0, 0.0);
