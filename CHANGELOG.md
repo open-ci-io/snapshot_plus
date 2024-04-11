@@ -1,7 +1,11 @@
+# 0.3.0
+
+- update dependencies
 
 # 0.2.5
 
 - fix `Snapshot.asNonNullableList`
+
 # 0.2.4
 
 - fix signature `asList` on `Stream<Snapshot>`
