@@ -1,6 +1,6 @@
 name: snapshot_plus
 description: A library that can be used to implement data classes and simplifies conversion of JSON to data classes
-version: 0.3.0
+version: 0.3.1
 homepage: https://github.com/appsup-dart/snapshot
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   path: ^1.9.0
-  intl: ^0.19.0
+  intl: ^0.18.1
   meta: ^1.14.0
   collection: ^1.18.0
   quiver: ^3.2.1

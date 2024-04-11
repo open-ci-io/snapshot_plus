@@ -1,3 +1,7 @@
+# 0.3.1
+
+- downgrade intl to 0.18.1
+
 # 0.3.0
 
 - update dependencies
